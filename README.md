@@ -1,12 +1,8 @@
-/cybersecurity-risk-assessment/
-│
-├── docs/                    ← All project documents
-│   ├── project_charter.docx
-│   ├── risk_register.xlsx
-│   ├── mitigation_plan.docx
-│   ├── change_management.docx
-│   └── final_report.docx
-│
-├── screenshots/             ← Where you'll save screenshot images
-│
-├── README.md                ← Project summary
+# Cybersecurity Risk Assessment and Mitigation Strategy
+
+This repository contains the project files for a cybersecurity risk assessment and mitigation plan for an e-commerce platform. It includes the project charter, risk register, mitigation strategies, change management process, and GitHub-based configuration control.
+
+## Folder Structure
+
+- `docs/`: All documentation
+- `screenshots/`: Evidence of GitHub usage
